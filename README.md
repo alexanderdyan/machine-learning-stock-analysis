@@ -1,4 +1,4 @@
-# Project 2 Report
+# Final Project Report
 ## Stock Analysis
 
 #### Authors
