@@ -19,6 +19,11 @@ Train machine learning model using pre-covid/historical data to see how well the
 #### Time Frame:
 July 2018 - present
 
+#### Technologies to Use:
+* Scikit-Learn
+* Python Pandas
+* Tableau
+
 #### Stocks/Industries of Interest:
 * Tesla - TSLA (car/EV/FOMO stock)
 * Amazon - AMZN (online shopping - covid beneficiary)
@@ -26,5 +31,5 @@ July 2018 - present
 * American Airlines - AAL (travel stock)
 * Halliburton - HAL (energy stock)
 * Costco - COST (grocery - covid beneficiary)
-* ZOOM - ZM (office/online communications - covid beneficiary)
-
+* Chegg - CHGG (online education - covid beneficiary)
+* Teledoc - TDOC (online doctors visits - covid beneficiary)
