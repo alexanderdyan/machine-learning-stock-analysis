@@ -20,11 +20,11 @@ Train machine learning model using pre-covid/historical data to see how well the
 July 2018 - present
 
 #### Stocks/Industries of Interest:
-Tesla - TSLA (car/EV/FOMO stock)
-Amazon - AMZN (online shopping - covid beneficiary)
-Gold - GOLD (“safe” investment)
-American Airlines - AAL (travel stock)
-Halliburton - HAL (energy stock)
-Costco - COST (grocery - covid beneficiary)
-ZOOM - ZM (office/online communications - covid beneficiary)
+* Tesla - TSLA (car/EV/FOMO stock)
+* Amazon - AMZN (online shopping - covid beneficiary)
+* Gold - GOLD (“safe” investment)
+* American Airlines - AAL (travel stock)
+* Halliburton - HAL (energy stock)
+* Costco - COST (grocery - covid beneficiary)
+* ZOOM - ZM (office/online communications - covid beneficiary)
 
