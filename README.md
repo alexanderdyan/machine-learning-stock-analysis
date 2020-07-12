@@ -4,7 +4,6 @@
 * Nick Theriot
 * Ivy Tiongco
 * Emily Akemann
-* Aparna Mantravadi
 * Jessica Nugent
 * Alex Burch
 
