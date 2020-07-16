@@ -22,6 +22,7 @@ July 2018 - present
 * Scikit-Learn
 * Python Pandas
 * Tableau
+* HTML/CSS/Bootstrap
 
 #### Stocks/Industries of Interest:
 * Tesla - TSLA (car/EV/FOMO stock)
