@@ -32,3 +32,7 @@ July 2018 - present
 * Costco - COST (grocery - covid beneficiary)
 * Chegg - CHGG (online education - covid beneficiary)
 * Teledoc - TDOC (online doctors visits - covid beneficiary)
+
+### Github Pages Site
+
+https://ivytiongco.github.io/machine-learning-stock-analysis/
