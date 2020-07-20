@@ -1,30 +1,7 @@
-# Final Project Report - Stock Analysis
+# Stock Price Prediction with LSTM
 
-#### Authors
-* Nick Theriot
-* Ivy Tiongco
-* Emily Akemann
-* Jessica Nugent
-* Alex Burch
+Train Long Short-Term Memory (LSTM) machine learning model using pre-COVID-19/historical data to see how well the model compares to what actually happened during COVID-19/current data for the following stocks:
 
-Project Proposal
-
-https://docs.google.com/document/d/1SHuo_YVVTzd4ParCsm-v39rDdPcdkeC4dT-y0fkDNt4/edit?usp=sharing
-
-
-#### Ideas:
-Train machine learning model using pre-covid/historical data to see how well the model compares to what actually happened during Covid/current data
-
-#### Time Frame:
-July 2018 - present
-
-#### Technologies to Use:
-* Scikit-Learn
-* Python Pandas
-* Tableau
-* HTML/CSS/Bootstrap
-
-#### Stocks/Industries of Interest:
 * Tesla - TSLA (car/EV/FOMO stock)
 * Amazon - AMZN (online shopping - covid beneficiary)
 * Gold - GOLD (“safe” investment)
@@ -34,6 +11,25 @@ July 2018 - present
 * Chegg - CHGG (online education - covid beneficiary)
 * Teledoc - TDOC (online doctors visits - covid beneficiary)
 
+#### Datasets:
+* Downloaded from Yahoo Finance for July 2018 - July 2020
+
+#### Tools/Packages Used:
+* Scikit-Learn
+* Keras
+* Pandas
+* Numpy
+* Matplotlib
+* Tableau
+* HTML/CSS/Bootstrap
+
 ### Github Pages Site
 
 https://ivytiongco.github.io/machine-learning-stock-analysis/
+
+#### Authors
+* Emily Akemann
+* Alex Burch
+* Jessica Nugent
+* Nick Theriot
+* Ivy Tiongco
