@@ -12,7 +12,7 @@ Train Long Short-Term Memory (LSTM) machine learning model using pre-COVID-19/hi
 * Teledoc - TDOC (online doctors visits - covid beneficiary)
 * Tesla - TSLA (car/EV/FOMO stock)
 
-#### Github Pages Site
+### Github Pages Site
 
 https://ivytiongco.github.io/machine-learning-stock-analysis/
 
