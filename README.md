@@ -11,10 +11,10 @@ Train Long Short-Term Memory (LSTM) machine learning model using pre-COVID-19/hi
 * Chegg - CHGG (online education - covid beneficiary)
 * Teledoc - TDOC (online doctors visits - covid beneficiary)
 
-#### Datasets:
+### Datasets:
 * Downloaded from Yahoo Finance for July 2018 - July 2020
 
-#### Tools/Packages Used:
+### Tools/Packages Used:
 * Scikit-Learn
 * Keras
 * Pandas
@@ -23,7 +23,27 @@ Train Long Short-Term Memory (LSTM) machine learning model using pre-COVID-19/hi
 * Tableau
 * HTML/CSS/Bootstrap
 
-### Github Pages Site
+### Visualizations
+
+![](charts/AAL.png)
+
+![](charts/AMZN.png)
+
+![](charts/BTC.png)
+
+![](charts/CHGG.png)
+
+![](charts/COST.png)
+
+![](charts/GOLD.png)
+
+![](charts/HAL.png)
+
+![](charts/TDOC.png)
+
+![](charts/TSLA.png)
+
+#### Github Pages Site
 
 https://ivytiongco.github.io/machine-learning-stock-analysis/
 
