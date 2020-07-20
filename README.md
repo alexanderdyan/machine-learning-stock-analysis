@@ -28,7 +28,7 @@ https://ivytiongco.github.io/machine-learning-stock-analysis/
 * Tableau
 * HTML/CSS/Bootstrap
 
-### Visualizations
+### Visualizations (blue and orange lines are actual closing prices, green line is predicted values)
 
 ![](charts/AAL.png)
 
