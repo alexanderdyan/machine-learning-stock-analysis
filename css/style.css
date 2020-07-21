@@ -1,31 +1,3 @@
-.line {
-  fill: none;
-  stroke-width: 2px;
-}
-
-.green {
-  stroke: green;
-}
-
-.blue {
-  stroke: blue;
-}
-
-.text {
-  font-size: 16px;
-  text-anchor: middle;
-}
-
-.smurf-text {
-  fill: blue;
-}
-
-.dow-text {
-  fill: green;
-}
-
 .image-vis {
   width: 1200px;
-/*  height: 300x;
-  margin: 10px;  */
 }
