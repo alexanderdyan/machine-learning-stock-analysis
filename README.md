@@ -16,6 +16,10 @@ Train Long Short-Term Memory (LSTM) machine learning model using pre-COVID-19/hi
 
 https://ivytiongco.github.io/machine-learning-stock-analysis/
 
+### Presentation Slides
+
+Included in this repo
+
 ### Datasets:
 * Downloaded from Yahoo Finance for July 2018 - July 2020
 
