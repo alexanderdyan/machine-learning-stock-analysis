@@ -20,10 +20,11 @@ https://ivytiongco.github.io/machine-learning-stock-analysis/
 
 Included in this repo
 
-### Datasets:
-* Downloaded from Yahoo Finance for July 2018 - July 2020
+### Datasets
 
-### Tools/Packages Used:
+Downloaded from Yahoo Finance for July 2018 - July 2020
+
+### Tools/Packages Used
 * Scikit-Learn
 * Keras
 * Pandas
@@ -53,6 +54,19 @@ Included in this repo
 ![](charts/TDOC.png)
 
 ![](charts/TSLA.png)
+
+Additional graphs for each of the following stocks:
+* Actual vs. predicted closing prices
+* Daily trade volumes and prices
+* Link to Tableau to interact with the visualizations
+
+![](charts/AAL_Dashboard.png)
+
+![](charts/AMZN_Dashboard.png)
+
+![](charts/TDOC_Dashboard.png)
+
+![](charts/TSLA_Dashboard.png)
 
 #### Authors
 * Emily Akemann
