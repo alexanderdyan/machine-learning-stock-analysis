@@ -16,7 +16,7 @@ There was a large market crash in March 2020 due to fears surrounding the spread
 * We predicted the stock prices after December 19, 2019 with the already-trained LSTM model.
 * We plotted the predicted stock prices against the actual prices for that time period to visualize the model’s accuracy.
 
-### Stocks Analyzed:
+### Stocks Analyzed
 * American Airlines - AAL (travel stock)
 * Amazon - AMZN (online shopping - covid beneficiary)
 * Bitcoin - BTC
