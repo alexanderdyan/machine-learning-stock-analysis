@@ -63,7 +63,7 @@ https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AMZN_Dashboard/Das
 ![](charts/TDOC_Dashboard.png)
 https://public.tableau.com/profile/ivy.tiongco#!/vizhome/TDOC_dashboard/Dashboard1
 
-![](charts/TSLA_Dashboard.png)
+![](charts/TSLA_dashboard.png)
 https://public.tableau.com/profile/alexander7777#!/vizhome/TSLA_dashboard/Dashboard1?publish=yes
 
 Graphs of all stocks:
