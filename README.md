@@ -1,7 +1,22 @@
-# Stock Price Prediction with LSTM
+# Stocks and Machine Learning in a Time of Covid
 
-Train Long Short-Term Memory (LSTM) machine learning model using pre-COVID-19/historical data to see how well the model compares to what actually happened during COVID-19/current data for the following stocks:
+Purpose: 
 
+To use machine learning to predict stock behavior had the March 2020 stock market crash due to the global pandemic not happened
+
+Background: 
+
+There was a large market crash in March 2020 due to fears surrounding the spread of Covid-19 and many countries around the world issuing stay at home orders. Due to wild speculation about the market’s recovery and low rates of return in typically “safe” investments like bonds, there has been an unprecedented rush of money into the market. Tech, online education, e-commerce, and grocery stocks have benefitted the most being for the most part unaffected by stay at home orders, however EV (electric vehicle) stocks like Tesla have also had an army of new investors rush in. Stocks that have also seen a lot of volatility and have yet to recover since the crash include travel-related stocks like airlines and cruises, as well as oil which at the same time had a price war between Russia and Saudi Arabia.
+
+Using Machine Learning to Answer “What If”:
+* We chose the LSTM Long-Short-Term Memory Recurrent Neural Network as our machine learning model.
+  * Popular for time-series forecasting for classification, processing, and making predictions.
+* We used two years of individual stock closing price data from July 2, 2018 – July 9, 2020.
+* We trained and tested the LSTM model on data up to December 19, 2019.
+* We predicted the stock prices after December 19, 2019 with the already-trained LSTM model.
+* We plotted the predicted stock prices against the actual prices for that time period to visualize the model’s accuracy.
+
+Stocks Analyzed:
 * American Airlines - AAL (travel stock)
 * Amazon - AMZN (online shopping - covid beneficiary)
 * Bitcoin - BTC
