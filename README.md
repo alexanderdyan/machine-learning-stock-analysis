@@ -61,14 +61,16 @@ Additional graphs for AAL, AMZN, TDOC, TSLA:
 * Link to Tableau to interact with the visualizations
 
 ![](charts/AAL_Dashboard.png)
-https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AAL_dashbaord2/Dashboard1
+https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AAL_dashboard_final/Dashboard1?publish=yes
 
 ![](charts/AMZN_Dashboard.png)
+https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AMZN_Dashboard/Dashboard1?publish=yes
 
 ![](charts/TDOC_Dashboard.png)
 https://public.tableau.com/profile/ivy.tiongco#!/vizhome/TDOC_dashboard/Dashboard1
 
 ![](charts/TSLA_Dashboard.png)
+https://public.tableau.com/profile/alexander7777#!/vizhome/TSLA_dashboard/Dashboard1?publish=yes
 
 #### Authors
 * Emily Akemann
