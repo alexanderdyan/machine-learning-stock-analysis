@@ -2,7 +2,7 @@
 
 #### Purpose: 
 
-To use machine learning to predict stock behavior had the March 2020 stock market crash due to the global pandemic not happened
+To use machine learning to predict stock behavior had the March 2020 stock market crash due to the COVID-19 global pandemic not happened
 
 #### Background: 
 
