@@ -56,19 +56,17 @@ Downloaded from Yahoo Finance for July 2018 - July 2020
 ![](charts/TSLA.png)
 
 Additional graphs for AAL, AMZN, TDOC, TSLA:
-* Link to Tableau to interact with the visualizations
 * Actual vs. predicted closing prices
 * Daily trade volumes and prices
-
-https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AAL_dashbaord2/Dashboard1
+* Link to Tableau to interact with the visualizations
 
 ![](charts/AAL_Dashboard.png)
+https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AAL_dashbaord2/Dashboard1
 
 ![](charts/AMZN_Dashboard.png)
 
-https://public.tableau.com/profile/ivy.tiongco#!/vizhome/TDOC_dashboard/Dashboard1
-
 ![](charts/TDOC_Dashboard.png)
+https://public.tableau.com/profile/ivy.tiongco#!/vizhome/TDOC_dashboard/Dashboard1
 
 ![](charts/TSLA_Dashboard.png)
 
