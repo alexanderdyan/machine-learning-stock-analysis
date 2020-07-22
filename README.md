@@ -49,7 +49,7 @@ Downloaded from Yahoo Finance for July 2018 - July 2020
 * HTML/CSS/Bootstrap
 
 ### Visualizations 
-Graphs for AAL, AMZN, TDOC, TSLA:
+#### Graphs for AAL, AMZN, TDOC, TSLA:
 * Actual vs. predicted closing prices
 * Daily trade volumes and prices
 * Link to Tableau to interact with the visualizations
@@ -66,7 +66,7 @@ https://public.tableau.com/profile/ivy.tiongco#!/vizhome/TDOC_dashboard/Dashboar
 ![](charts/TSLA_dashboard.png)
 https://public.tableau.com/profile/alexander7777#!/vizhome/TSLA_dashboard/Dashboard1?publish=yes
 
-Graphs of all stocks:
+#### Graphs of all stocks:
 * Blue and orange lines are actual closing prices
 * Green lines are predicted values
 
