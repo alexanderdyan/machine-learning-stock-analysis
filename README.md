@@ -37,7 +37,7 @@ Included in this repo
 
 ### Datasets
 
-Downloaded from Yahoo Finance for July 2018 - July 2020
+Downloaded from Yahoo Finance for July 2, 2018 – July 9, 2020
 
 ### Tools/Packages Used
 * Scikit-Learn
