@@ -39,10 +39,10 @@ Graphs for AAL, AMZN, TDOC, TSLA:
 * Daily trade volumes and prices
 * Link to Tableau to interact with the visualizations
 
-![](charts/AAL_Dashboard.png)
+![](charts/AAL_dashboard.png)
 https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AAL_dashboard_final/Dashboard1?publish=yes
 
-![](charts/AMZN_Dashboard.png)
+![](charts/AMZN_dashboard.png)
 https://public.tableau.com/profile/nicholas.theriot#!/vizhome/AMZN_Dashboard/Dashboard1?publish=yes
 
 ![](charts/TDOC_Dashboard.png)
