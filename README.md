@@ -55,7 +55,7 @@ Downloaded from Yahoo Finance for July 2018 - July 2020
 
 ![](charts/TSLA.png)
 
-Additional graphs for each of the following stocks:
+Additional graphs for AAL, AMZN, TDOC, TSLA:
 * Actual vs. predicted closing prices
 * Daily trade volumes and prices
 * Link to Tableau to interact with the visualizations
